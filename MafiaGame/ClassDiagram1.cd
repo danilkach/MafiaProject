@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MafiaGame.App">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MafiaGame.CodeEditor">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAQAEAACACAAEAAACAAAACAAAIgAAICAACAAAAAAA=</HashCode>
+      <FileName>CodeEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MafiaGame.GameWindow">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAgAAAwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>GameWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MafiaGame.MainWindow">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAEAAAAAECAEQCAAgAAAAIAAACAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MafiaGame.RoleEditor">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQAAAADAACAAAAgAoEGCAEgCIAAEAAAAAAAAEAABAAA=</HashCode>
+      <FileName>RoleEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MafiaGame.Properties.Resources">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MafiaGame.Properties.Settings">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MafiaClassLibrary.Role">
+    <Position X="10.25" Y="0.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="MafiaClassLibrary.Pack">
+    <Position X="8.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="MafiaClassLibrary.Host">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="MafiaClassLibrary.Client">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MafiaClassLibrary.User">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="MafiaClassLibrary.Bot">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="MafiaClassLibrary.City">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Interface Name="MafiaClassLibrary.IAction">
+    <Position X="4.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="MafiaClassLibrary.IPlayer">
+    <Position X="4.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Enum Name="MafiaClassLibrary.PacketInfo">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Delegate Name="MafiaClassLibrary.DrawPlayerHandler">
+    <Position X="8.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Delegate Name="MafiaClassLibrary.PickPlayerHandler">
+    <Position X="6.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Delegate Name="MafiaClassLibrary.MessageHandler">
+    <Position X="6.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
